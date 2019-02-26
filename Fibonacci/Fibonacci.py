@@ -1,3 +1,8 @@
+"""
+Explanation of Fibonacci Recursion Can Be Found Here:
+https://medium.com/launch-school/recursive-fibonnaci-method-explained-d82215c5498e
+"""
+
 # Use Dictionary for Key Value Pair.
 # Key = Nth Term
 # Value = Fibonacci Value
@@ -21,11 +26,10 @@ def fibonacci(n = 3):
 		value = 1
 	elif n > 2:
 		value = fibonacci(n - 1) + fibonacci(n - 2)
-		print(value)
 
 	# Cache the Value and Return it
 	fibonacci_cache[n] = value
 	return value
 
-for i in range(1, 10):
+for i in range(1, int(input("Enter a Value: ")) + 1):
 	print(i, ":", fibonacci(i))
