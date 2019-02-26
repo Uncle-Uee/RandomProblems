@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18c0216b-fe5b-4aa3-a004-352de45dc2e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Fibonacci/Fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fibonacci/Fibonacci.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Fibonacci/Fibonacci.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3" selection-start-column="3" selection-end-column="3" />
+            <state relative-caret-position="612">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -140,7 +141,8 @@
       <updated>1551199132161</updated>
       <workItem from="1551199134644" duration="991000" />
       <workItem from="1551206110726" duration="289000" />
-      <workItem from="1551213349095" duration="2717000" />
+      <workItem from="1551213349095" duration="2800000" />
+      <workItem from="1551216800962" duration="41000" />
     </task>
     <task id="LOCAL-00001" summary="Update Fibonacci">
       <created>1551199681931</created>
@@ -160,7 +162,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3997000" />
+    <option name="totallyTimeSpent" value="4121000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="8" width="1278" height="976" extended-state="0" />
@@ -171,7 +173,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32925338" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32925338" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -230,8 +232,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Fibonacci/Fibonacci.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        <state relative-caret-position="612">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
