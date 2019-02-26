@@ -33,3 +33,13 @@ def fibonacci(n = 3):
 
 for i in range(1, int(input("Enter a Value: ")) + 1):
 	print(i, ":", fibonacci(i))
+
+def Fibonacci(n):
+	if (n == 0):
+		return 0
+	elif (n == 1):
+		return 1
+	else:
+		return Fibonacci(n - 1) + Fibonacci(n - 2)
+
+print(Fibonacci(2))
