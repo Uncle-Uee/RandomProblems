@@ -1,9 +1,31 @@
-def Fibonacci(n = 3):
-	fib_sequence = [0, 1]
+# Use Dictionary for Key Value Pair.
+# Key = Nth Term
+# Value = Fibonacci Value
+fibonacci_cache = {}
 
-	if n < 2:
-		return fib_sequence
+def fibonacci(n = 3):
+	# Error Check
+	if type(n) != int:
+		raise TypeError("n Must be an Integer")
+	if n < 1:
+		raise ValueError("n Must be a Positive Value")
 
-	for i in range(n - 2):
-		fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
-	return fib_sequence
+	# If we have cached the value, then return it
+	if n in fibonacci_cache:
+		return fibonacci_cache[n]
+
+	# Computer Fibonacci Nth Term
+	if n == 1:
+		value = 0
+	elif n == 2:
+		value = 1
+	elif n > 2:
+		value = fibonacci(n - 1) + fibonacci(n - 2)
+		print(value)
+
+	# Cache the Value and Return it
+	fibonacci_cache[n] = value
+	return value
+
+for i in range(1, 10):
+	print(i, ":", fibonacci(i))
