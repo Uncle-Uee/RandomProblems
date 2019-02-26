@@ -1,9 +1,9 @@
-def Fibonacci(n = 3):
-	fib_sequence = [0, 1]
+def Fibonacci(n):
+        if(n == 0):
+                return 0
+        elif(n == 1):
+                return 1
+        else:
+                return Fibonacci(n-1) + Fibonacci(n-2)
 
-	if n < 2:
-		return fib_sequence
-
-	for i in range(n - 2):
-		fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
-	return fib_sequence
+print(Fibonacci(2))
