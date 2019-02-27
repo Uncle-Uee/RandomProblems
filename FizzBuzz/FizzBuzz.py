@@ -47,5 +47,7 @@ def fizzbuzz_recursion(array = list()):
 
 
 numbers = list((i for i in range(1, abs(int(input("Enter a Value: "))) + 1)))
+print("Fizz Buzz Iterative Example")
 fizzbuzz_iterative(numbers)
+print("\nFizz Buzz Recursive Example")
 fizzbuzz_recursion(numbers)
