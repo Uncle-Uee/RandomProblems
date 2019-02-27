@@ -21,7 +21,7 @@ def fibonacci(n = 3):
 
 	# Computer Fibonacci Nth Term
 	if n == 1:
-		value = 0
+		value = 1
 	elif n == 2:
 		value = 1
 	elif n > 2:
