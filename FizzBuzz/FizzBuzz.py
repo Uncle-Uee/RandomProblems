@@ -14,8 +14,8 @@ def mod_calculation(i = 1, modby = 1):
 
 def fizzbuzz_iterative(array = list()):
 	for i in array:
-		mod3 = mod_calculation(array[0], 3) == 0
-		mod5 = mod_calculation(array[0], 5) == 0
+		mod3 = mod_calculation(i, 3) == 0
+		mod5 = mod_calculation(i, 5) == 0
 
 		if mod3 and mod5:
 			print(fizz + " " + buzz)
