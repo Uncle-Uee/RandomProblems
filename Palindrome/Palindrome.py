@@ -5,4 +5,4 @@ def Palindrome(word = ""):
 		return False
 	return Palindrome(word[1:-1])
 
-print(Palindrome("racecar"))
+print(Palindrome(input("Enter a Palindrome: ").lower()))
