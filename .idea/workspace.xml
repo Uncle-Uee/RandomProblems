@@ -28,10 +28,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FindCommonElements/FindAllCommonElements.py">
+        <entry file="file://$PROJECT_DIR$/PrefixToPostfix/PrefixToPostfix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="565">
+              <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -64,21 +64,23 @@
         <option value="$PROJECT_DIR$/RemoveDuplicates/RemoveDuplicates.py" />
         <option value="$PROJECT_DIR$/PairOfNumbers/FindPairs.py" />
         <option value="$PROJECT_DIR$/FindCommonElements/FindAllCommonElements.py" />
+        <option value="$PROJECT_DIR$/IsPrime/IsPrime.py" />
+        <option value="$PROJECT_DIR$/CheckIP/CheckIP.py" />
+        <option value="$PROJECT_DIR$/PrefixToPostfix/PrefixToPostfix.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="2" />
-    <option name="y" value="6" />
+    <option name="y" value="5" />
     <option name="width" value="1278" />
-    <option name="height" value="976" />
+    <option name="height" value="977" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -89,17 +91,13 @@
             <path>
               <item name="RandomProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="RandomProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="FindCommonElements" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RandomProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RandomProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="PairOfNumbers" type="462c0819:PsiDirectoryNode" />
+              <item name="PrefixToPostfix" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,7 +258,8 @@
       <workItem from="1551384938346" duration="1040000" />
       <workItem from="1551386042701" duration="2000" />
       <workItem from="1551387366862" duration="1340000" />
-      <workItem from="1551435782543" duration="7804000" />
+      <workItem from="1551435782543" duration="10026000" />
+      <workItem from="1551473607870" duration="431000" />
     </task>
     <task id="LOCAL-00001" summary="Update Fibonacci">
       <created>1551199681931</created>
@@ -311,22 +310,43 @@
       <option name="project" value="LOCAL" />
       <updated>1551264481519</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update">
+      <created>1551464991182</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1551464991182</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update">
+      <created>1551465031679</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1551465031679</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update">
+      <created>1551465110361</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1551465110361</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15702000" />
+    <option name="totallyTimeSpent" value="18355000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="6" width="1278" height="976" extended-state="0" />
+    <frame x="2" y="5" width="1278" height="977" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27011493" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27422002" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32925338" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32925338" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -352,7 +372,8 @@
     <MESSAGE value="Memoization Fibonacci Update" />
     <MESSAGE value="Clean up." />
     <MESSAGE value="Updated Palindrome" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Palindrome" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/MissingNumber/MissingNumber.py">
@@ -383,13 +404,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HuntAndKill/HuntAndKill.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/HuntAndKill/HuntAndKill.py" />
     <entry file="file://$PROJECT_DIR$/Anagram/Anagram.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -443,10 +458,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CheckIP/CheckIP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IsPrime/IsPrime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/FindCommonElements/FindAllCommonElements.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="144">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrefixToPostfix/PrefixToPostfix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
         </state>
       </provider>
     </entry>
