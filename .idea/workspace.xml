@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18c0216b-fe5b-4aa3-a004-352de45dc2e9" name="Default Changelist" comment="">
+    <list default="true" id="18c0216b-fe5b-4aa3-a004-352de45dc2e9" name="Default Changelist" comment="Discounted Price and Merge Strings">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrefixToPostfix/PrefixToPostfix.py" beforeDir="false" afterPath="$PROJECT_DIR$/PrefixToPostfix/PrefixToPostfix.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,20 +19,37 @@
     <SUITE FILE_PATH="coverage/RandomProblems$HuntAndKill.coverage" NAME="HuntAndKill Coverage Results" MODIFIED="1551390733223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HuntAndKill" />
     <SUITE FILE_PATH="coverage/RandomProblems$RemoveDuplicates.coverage" NAME="RemoveDuplicates Coverage Results" MODIFIED="1551462533993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RemoveDuplicates" />
     <SUITE FILE_PATH="coverage/RandomProblems$Palindrome.coverage" NAME="Palindrome Coverage Results" MODIFIED="1551264462108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palindrome" />
+    <SUITE FILE_PATH="coverage/RandomProblems$MergeStrings.coverage" NAME="MergeStrings Coverage Results" MODIFIED="1551475933049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MergeStrings" />
     <SUITE FILE_PATH="coverage/RandomProblems$ReverseString.coverage" NAME="ReverseString Coverage Results" MODIFIED="1551449532417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ReverseString" />
     <SUITE FILE_PATH="coverage/RandomProblems$QuickSort.coverage" NAME="QuickSort Coverage Results" MODIFIED="1551448992698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QuickSort" />
+    <SUITE FILE_PATH="coverage/RandomProblems$DiscountedFinalPrice.coverage" NAME="DiscountedFinalPrice Coverage Results" MODIFIED="1551479775618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DiscountedPrice" />
     <SUITE FILE_PATH="coverage/RandomProblems$FindAllCommonElements.coverage" NAME="FindAllCommonElements Coverage Results" MODIFIED="1551464921902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FindCommonElements" />
     <SUITE FILE_PATH="coverage/RandomProblems$Fibonacci.coverage" NAME="Fibonacci Coverage Results" MODIFIED="1551217040169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fibonacci" />
     <SUITE FILE_PATH="coverage/RandomProblems$FindPairs.coverage" NAME="FindPairs Coverage Results" MODIFIED="1551462964240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PairOfNumbers" />
+    <SUITE FILE_PATH="coverage/RandomProblems$PostfixToPrefix.coverage" NAME="PostfixToPrefix Coverage Results" MODIFIED="1551526929296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PostfixToPrefix" />
     <SUITE FILE_PATH="coverage/RandomProblems$MissingNumber.coverage" NAME="MissingNumber Coverage Results" MODIFIED="1551199217125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MissingNumber" />
+    <SUITE FILE_PATH="coverage/RandomProblems$PrefixToPostfix.coverage" NAME="PrefixToPostfix Coverage Results" MODIFIED="1551526092828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PrefixToPostfix" />
+    <SUITE FILE_PATH="coverage/RandomProblems$PostfixToInfix.coverage" NAME="PostfixToInfix Coverage Results" MODIFIED="1551527408415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PostfixToInfix" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PrefixToPostfix/PrefixToPostfix.py">
+        <entry file="file://$PROJECT_DIR$/PostfixToInfix/PostfixToInfix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="565">
-              <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+            <state relative-caret-position="24">
+              <caret line="4" column="68" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PostfixToPrefix/PostfixToPrefix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-72">
+              <caret selection-end-line="8" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#418#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,15 +84,18 @@
         <option value="$PROJECT_DIR$/FindCommonElements/FindAllCommonElements.py" />
         <option value="$PROJECT_DIR$/IsPrime/IsPrime.py" />
         <option value="$PROJECT_DIR$/CheckIP/CheckIP.py" />
+        <option value="$PROJECT_DIR$/MergeStrings/MergeStrings.py" />
+        <option value="$PROJECT_DIR$/DiscountedPrice/DiscountedFinalPrice.py" />
         <option value="$PROJECT_DIR$/PrefixToPostfix/PrefixToPostfix.py" />
+        <option value="$PROJECT_DIR$/PostfixToPrefix/PostfixToPrefix.py" />
+        <option value="$PROJECT_DIR$/PostfixToInfix/PostfixToInfix.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2" />
-    <option name="y" value="5" />
-    <option name="width" value="1278" />
-    <option name="height" value="977" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="633" />
+    <option name="width" value="654" />
+    <option name="height" value="991" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -87,6 +108,21 @@
             <path>
               <item name="RandomProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="RandomProblems" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RandomProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RandomProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="IsPrime" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RandomProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RandomProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="PostfixToInfix" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RandomProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RandomProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="PostfixToPrefix" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RandomProblems" type="b2602c69:ProjectViewProjectNode" />
@@ -119,8 +155,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.FindAllCommonElements">
-    <configuration name="FindAllCommonElements" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.PostfixToInfix">
+    <configuration name="DiscountedFinalPrice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RandomProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,12 +164,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FindCommonElements" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DiscountedPrice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FindCommonElements/FindAllCommonElements.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DiscountedPrice/DiscountedFinalPrice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FindAllMissingValues" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MergeStrings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RandomProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,12 +186,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FindAllMissingValues" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MergeStrings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FindAllMissingValues/FindAllMissingValues.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MergeStrings/MergeStrings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +200,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FindPairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PostfixToInfix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RandomProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,12 +208,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PairOfNumbers" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PostfixToInfix" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PairOfNumbers/FindPairs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PostfixToInfix/PostfixToInfix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,7 +222,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RemoveDuplicates" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PostfixToPrefix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RandomProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,12 +230,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RemoveDuplicates" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PostfixToPrefix" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RemoveDuplicates/RemoveDuplicates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PostfixToPrefix/PostfixToPrefix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,7 +244,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ReverseArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PrefixToPostfix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RandomProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,12 +252,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ReverseArray" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PrefixToPostfix" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReverseArray/ReverseArray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PrefixToPostfix/PrefixToPostfix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.FindAllCommonElements" />
-        <item itemvalue="Python.FindPairs" />
-        <item itemvalue="Python.RemoveDuplicates" />
-        <item itemvalue="Python.ReverseArray" />
-        <item itemvalue="Python.FindAllMissingValues" />
+        <item itemvalue="Python.PostfixToInfix" />
+        <item itemvalue="Python.PostfixToPrefix" />
+        <item itemvalue="Python.PrefixToPostfix" />
+        <item itemvalue="Python.DiscountedFinalPrice" />
+        <item itemvalue="Python.MergeStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +295,8 @@
       <workItem from="1551386042701" duration="2000" />
       <workItem from="1551387366862" duration="1340000" />
       <workItem from="1551435782543" duration="10026000" />
-      <workItem from="1551473607870" duration="431000" />
+      <workItem from="1551473607870" duration="7891000" />
+      <workItem from="1551512220591" duration="2769000" />
     </task>
     <task id="LOCAL-00001" summary="Update Fibonacci">
       <created>1551199681931</created>
@@ -331,22 +368,43 @@
       <option name="project" value="LOCAL" />
       <updated>1551465110361</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added CheckIP and Prefix To Postfix">
+      <created>1551474060927</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1551474060927</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added CheckIP and Prefix To Postfix">
+      <created>1551474124627</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1551474124627</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Discounted Price and Merge Strings">
+      <created>1551480213988</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1551480213988</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18355000" />
+    <option name="totallyTimeSpent" value="28584000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="5" width="1278" height="977" extended-state="0" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27422002" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25566342" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32925338" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3198573" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -373,7 +431,9 @@
     <MESSAGE value="Clean up." />
     <MESSAGE value="Updated Palindrome" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Added CheckIP and Prefix To Postfix" />
+    <MESSAGE value="Discounted Price and Merge Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Discounted Price and Merge Strings" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/MissingNumber/MissingNumber.py">
@@ -479,10 +539,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MergeStrings/MergeStrings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiscountedPrice/DiscountedFinalPrice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PrefixToPostfix/PrefixToPostfix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        <state relative-caret-position="168">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PostfixToPrefix/PostfixToPrefix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#418#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PostfixToInfix/PostfixToInfix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="4" column="68" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
         </state>
       </provider>
     </entry>

@@ -1,3 +1,13 @@
+"""
+1. Read the Prefix expression in reverse order (from right to left)
+2. If the symbol is an operator, then pop two operands from the Stack
+3. Create a string by concatenating the two operands and the operator after them.
+4. string = operand1 + operand2 + operator
+5. And push the resultant string back to Stack
+6. If the symbol is an operand, then push it onto the Stack
+7. Repeat the above steps until end of Prefix expression.
+"""
+
 def prefix_to_postfix(prefixes):
 	# Python Array Act as Stack
 	stack = []
@@ -32,3 +42,6 @@ def prefix_to_postfix(prefixes):
 
 	# Return Postfixes Array
 	return postfixes
+
+# Example
+print(prefix_to_postfix(["*+AB-CD"]))
